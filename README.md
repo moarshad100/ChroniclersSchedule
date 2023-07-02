@@ -16,3 +16,7 @@
 </ol>
 
 ![alt text](/images/working_website.png)
+
+
+Git Repository : https://github.com/moarshad100/ChroniclersSchedule
+Git Deployed Application : https://moarshad100.github.io/ChroniclersSchedule/
